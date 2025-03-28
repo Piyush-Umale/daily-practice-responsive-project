@@ -12,7 +12,7 @@ html,body{
 .d-main{
     width: 100%;
     height: 100%;
-    background-image: url(@WallpapersFreeHD\ 357.jpg);
+    background-image: url(images/@WallpapersFreeHD\ 357.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
